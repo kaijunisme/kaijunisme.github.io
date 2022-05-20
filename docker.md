@@ -1,5 +1,5 @@
 <aside>
-** Docker makes development efficient and predictable. **
+**Docker makes development efficient and predictable.**
 
 </aside>
 
